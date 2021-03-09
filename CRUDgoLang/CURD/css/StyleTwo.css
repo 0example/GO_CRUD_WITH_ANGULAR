@@ -1,0 +1,248 @@
+.middle{
+    position: absolute;!important;
+    margin: 0 auto;!important;
+}
+
+.navOptimize{
+    width: 100%;
+    /*background-color: rgba(23, 23, 23, 0.7);*/
+    /*background-color: #232323;*/
+    background: linear-gradient(to right,rgba(61, 61, 61, 0),#232323,#232323,#232323,#232323);
+}
+
+nav ul.nav li.nav-item{
+    font-family: 'Ranga', cursive;
+    font-size: 20px;
+}
+
+.middlePic{
+    z-index: 0;
+    top: 0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+#navAdjment{
+    z-index: 100;
+    position: relative;!important;
+}
+
+.nav-link{
+    color: white;!important;
+}
+
+.middle-componant{
+
+    z-index: 90;
+    position: relative;
+    margin-top: 4px;
+    /*height: 90%;*/
+    /*min-height: 730px;*/
+    /*max-height: 770px;*/
+    /*width: 90%;*/
+    /*margin-top: 100px;*/
+}
+
+body div.middle-componant{
+    background-color: rgba(23, 23, 23, 0.95);!important;
+    color: white;
+}
+
+.item{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 80%;
+}
+
+body div.middle-componant div.carousel-inner{
+    /*position: absolute;*/
+    width: 98%;
+
+    margin: 0 auto;
+}
+
+.bot{
+    background-color: rgba(23, 23, 23, 0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+nav .text-monospace{
+    color: white;
+    margin: 0.5rem;
+}
+
+#cart{
+    z-index: 100;
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    right: 0;
+    bottom: 10%;
+    background-color:rgba(192, 42, 42, 0.95);
+    border-radius: 50%;
+}
+
+#cartimg{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 30px;
+}
+
+div.middle-componant div.jmb01{
+    background-color: rgba(178, 6, 6, 0.85);
+    position: relative;
+    height: 680px;
+    width: 23.7%;
+}
+
+#jumb02{
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 76%;!important;
+    height: 100%;
+    background-color: transparent;
+}
+
+div.card{
+    height: 100%;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#card01{
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48.8%;!important;
+    height: 100%;
+    background-color:transparent;
+}
+
+#card02{
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    right: 1%;
+    width: 49.7%;!important;
+    height: 100%;
+    background-color: transparent;
+}
+
+.onlineorder{
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+    background-color: rgba(23, 23, 23, 0.6);
+}
+
+
+.signup{
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 250px;
+    height: 250px;
+    background-color: rgba(23, 23, 23, 0.6);
+}
+
+.onlineorder:hover{
+    background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+.signup:hover{
+    background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+#buttonTxt01{
+    position: relative;
+    top: 33px;
+    font-size: 30px;
+    color: white;
+}
+
+#buttonTxt02{
+    position: relative;
+    top: 33px;
+    font-size: 40px;
+    color: white;
+}
+
+.imgbtns{
+    margin: 0 auto;
+    position: relative;
+    width: 70px;
+    top: 70px;
+}
+
+.form-row{
+    margin: 0 auto;
+}
+
+#navLogo{
+    /*z-index: 100;*/
+    /*position: fixed;*/
+    /*width: 170px;*/
+    /*height: 170px;*/
+    /*top: -2%;*/
+    /*left: 3.7%;*/
+}
+
+.card-img-top{
+    width: 200px;
+}
+
+.card-deck{
+    z-index: 100;!important;
+}
+div.jumbOptimize{
+    border-radius: 10px;!important;
+    border: solid 2px red;
+    background-color: white;
+    padding: 20px;!important;
+    margin: 0 auto;
+    width: 80%;!important;
+    position: relative;
+}
+
+.card-img-top{
+    position:relative;
+    width: 100%;
+    top: 0;
+    margin-bottom: 0;
+}
+
+/*#menuBack{*/
+    /*position: absolute;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*z-index:0;*/
+
+/*}*/
+
+.menuNames{
+    color: black;
+}
+
+ul.nav{
+    /*margin-bottom: 20px;*/
+}
+
+li.nav_items{
+    background-color: #0c5460;!important;
+}
+
